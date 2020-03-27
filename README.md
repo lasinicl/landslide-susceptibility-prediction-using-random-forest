@@ -1,0 +1,1 @@
+# landslide-susceptibility-prediction-using-random-forest
